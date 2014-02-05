@@ -1,12 +1,3 @@
-/*
-Biggest pains: 
-- Absolute positioning
-- Inline blocks combined with backgrounds
-- Media queries
-- Figuring out colors
--- Used 'Color Detector' for color matching
-*/
-
 
 div {
 	outline: 0px solid black;
